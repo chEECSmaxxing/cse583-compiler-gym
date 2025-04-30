@@ -1,0 +1,22 @@
+episode=  50, cur_reward=0.81052, Q-table_entries=   94, Q-table_diff=0.0000000
+episode= 100, cur_reward=0.81052, Q-table_entries=  159, Q-table_diff=0.0017046
+episode= 150, cur_reward=0.81052, Q-table_entries=  224, Q-table_diff=0.0012334
+episode= 200, cur_reward=0.81052, Q-table_entries=  315, Q-table_diff=0.0007301
+episode= 250, cur_reward=0.81052, Q-table_entries=  357, Q-table_diff=0.0005469
+episode= 300, cur_reward=0.81052, Q-table_entries=  400, Q-table_diff=0.0004466
+episode= 350, cur_reward=0.81052, Q-table_entries=  446, Q-table_diff=0.0003440
+episode= 400, cur_reward=0.81052, Q-table_entries=  497, Q-table_diff=0.0002765
+episode= 450, cur_reward=0.81052, Q-table_entries=  553, Q-table_diff=0.0001766
+episode= 500, cur_reward=0.81052, Q-table_entries=  629, Q-table_diff=0.0001688
+episode= 550, cur_reward=0.81052, Q-table_entries=  670, Q-table_diff=0.0001391
+episode= 600, cur_reward=0.81052, Q-table_entries=  715, Q-table_diff=0.0001062
+episode= 650, cur_reward=0.81052, Q-table_entries=  751, Q-table_diff=0.0001062
+episode= 700, cur_reward=0.81052, Q-table_entries=  803, Q-table_diff=0.0000669
+episode= 750, cur_reward=0.81052, Q-table_entries=  842, Q-table_diff=0.0001252
+episode= 800, cur_reward=0.81052, Q-table_entries=  889, Q-table_diff=0.0000704
+episode= 850, cur_reward=0.81052, Q-table_entries=  944, Q-table_diff=0.0000552
+episode= 900, cur_reward=0.81052, Q-table_entries=  997, Q-table_diff=0.0000675
+episode= 950, cur_reward=0.81052, Q-table_entries= 1031, Q-table_diff=0.0000515
+episode=1000, cur_reward=0.81052, Q-table_entries= 1074, Q-table_diff=0.0000751
+Constructing Q-table in 108.1s
+Resulting sequence:  -correlated-propagation,-mem2reg,-bdce,-loop-distribute,-simplifycfg total reward 0.810521521293555

@@ -1,0 +1,22 @@
+episode=  50, cur_reward=0.84706, Q-table_entries=   82, Q-table_diff=0.0000000
+episode= 100, cur_reward=1.09256, Q-table_entries=  173, Q-table_diff=0.0025560
+episode= 150, cur_reward=1.09256, Q-table_entries=  229, Q-table_diff=0.0015520
+episode= 200, cur_reward=1.09256, Q-table_entries=  290, Q-table_diff=0.0012037
+episode= 250, cur_reward=1.09256, Q-table_entries=  354, Q-table_diff=0.0008056
+episode= 300, cur_reward=1.09256, Q-table_entries=  406, Q-table_diff=0.0006632
+episode= 350, cur_reward=1.09256, Q-table_entries=  454, Q-table_diff=0.0005491
+episode= 400, cur_reward=1.09256, Q-table_entries=  515, Q-table_diff=0.0004137
+episode= 450, cur_reward=1.09256, Q-table_entries=  557, Q-table_diff=0.0003162
+episode= 500, cur_reward=1.09256, Q-table_entries=  584, Q-table_diff=0.0003281
+episode= 550, cur_reward=1.09256, Q-table_entries=  620, Q-table_diff=0.0002345
+episode= 600, cur_reward=1.09256, Q-table_entries=  670, Q-table_diff=0.0002327
+episode= 650, cur_reward=1.09256, Q-table_entries=  726, Q-table_diff=0.0002605
+episode= 700, cur_reward=1.09256, Q-table_entries=  759, Q-table_diff=0.0001750
+episode= 750, cur_reward=1.09256, Q-table_entries=  797, Q-table_diff=0.0001647
+episode= 800, cur_reward=1.09256, Q-table_entries=  824, Q-table_diff=0.0001693
+episode= 850, cur_reward=1.09256, Q-table_entries=  845, Q-table_diff=0.0001411
+episode= 900, cur_reward=1.09256, Q-table_entries=  885, Q-table_diff=0.0001445
+episode= 950, cur_reward=1.09256, Q-table_entries=  914, Q-table_diff=0.0001362
+episode=1000, cur_reward=1.09256, Q-table_entries=  945, Q-table_diff=0.0001063
+Constructing Q-table in 77.7s
+Resulting sequence:  -lower-guard-intrinsic,-sroa,-post-inline-ee-instrument,-jump-threading,-gvn total reward 1.0925636619278238

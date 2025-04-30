@@ -1,0 +1,202 @@
+episode=  50, cur_reward=0.55728, Q-table_entries=   71, Q-table_diff=0.0000000
+episode= 100, cur_reward=1.02167, Q-table_entries=  116, Q-table_diff=0.0025006
+episode= 150, cur_reward=1.02167, Q-table_entries=  174, Q-table_diff=0.0018517
+episode= 200, cur_reward=1.08359, Q-table_entries=  225, Q-table_diff=0.0012755
+episode= 250, cur_reward=1.08359, Q-table_entries=  272, Q-table_diff=0.0008471
+episode= 300, cur_reward=1.08359, Q-table_entries=  313, Q-table_diff=0.0007403
+episode= 350, cur_reward=1.08359, Q-table_entries=  354, Q-table_diff=0.0006259
+episode= 400, cur_reward=1.08359, Q-table_entries=  404, Q-table_diff=0.0004680
+episode= 450, cur_reward=1.08359, Q-table_entries=  438, Q-table_diff=0.0004041
+episode= 500, cur_reward=1.08359, Q-table_entries=  471, Q-table_diff=0.0003854
+episode= 550, cur_reward=1.08359, Q-table_entries=  493, Q-table_diff=0.0003862
+episode= 600, cur_reward=1.08359, Q-table_entries=  528, Q-table_diff=0.0002591
+episode= 650, cur_reward=1.08359, Q-table_entries=  557, Q-table_diff=0.0002449
+episode= 700, cur_reward=1.08359, Q-table_entries=  583, Q-table_diff=0.0002401
+episode= 750, cur_reward=1.08359, Q-table_entries=  611, Q-table_diff=0.0001988
+episode= 800, cur_reward=1.08359, Q-table_entries=  647, Q-table_diff=0.0001729
+episode= 850, cur_reward=1.08359, Q-table_entries=  678, Q-table_diff=0.0001753
+episode= 900, cur_reward=1.08359, Q-table_entries=  712, Q-table_diff=0.0001552
+episode= 950, cur_reward=1.08359, Q-table_entries=  732, Q-table_diff=0.0001505
+episode=1000, cur_reward=1.08359, Q-table_entries=  754, Q-table_diff=0.0001231
+episode=1050, cur_reward=1.08359, Q-table_entries=  773, Q-table_diff=0.0001473
+episode=1100, cur_reward=1.08359, Q-table_entries=  797, Q-table_diff=0.0001227
+episode=1150, cur_reward=1.08359, Q-table_entries=  811, Q-table_diff=0.0001500
+episode=1200, cur_reward=1.08359, Q-table_entries=  832, Q-table_diff=0.0001343
+episode=1250, cur_reward=1.08359, Q-table_entries=  850, Q-table_diff=0.0001160
+episode=1300, cur_reward=1.08359, Q-table_entries=  876, Q-table_diff=0.0001422
+episode=1350, cur_reward=1.08359, Q-table_entries=  893, Q-table_diff=0.0000929
+episode=1400, cur_reward=1.08359, Q-table_entries=  913, Q-table_diff=0.0001016
+episode=1450, cur_reward=1.08359, Q-table_entries=  930, Q-table_diff=0.0000822
+episode=1500, cur_reward=1.08359, Q-table_entries=  951, Q-table_diff=0.0000824
+episode=1550, cur_reward=1.08359, Q-table_entries=  967, Q-table_diff=0.0000710
+episode=1600, cur_reward=1.08359, Q-table_entries=  980, Q-table_diff=0.0001009
+episode=1650, cur_reward=1.08359, Q-table_entries=  992, Q-table_diff=0.0000968
+episode=1700, cur_reward=1.08359, Q-table_entries= 1015, Q-table_diff=0.0000675
+episode=1750, cur_reward=1.08359, Q-table_entries= 1031, Q-table_diff=0.0000591
+episode=1800, cur_reward=1.08359, Q-table_entries= 1049, Q-table_diff=0.0000551
+episode=1850, cur_reward=1.08359, Q-table_entries= 1067, Q-table_diff=0.0000871
+episode=1900, cur_reward=1.08359, Q-table_entries= 1090, Q-table_diff=0.0000748
+episode=1950, cur_reward=1.08359, Q-table_entries= 1097, Q-table_diff=0.0000500
+episode=2000, cur_reward=1.08359, Q-table_entries= 1107, Q-table_diff=0.0000929
+episode=2050, cur_reward=1.08359, Q-table_entries= 1115, Q-table_diff=0.0000690
+episode=2100, cur_reward=1.08359, Q-table_entries= 1127, Q-table_diff=0.0000767
+episode=2150, cur_reward=1.08359, Q-table_entries= 1143, Q-table_diff=0.0001035
+episode=2200, cur_reward=1.08359, Q-table_entries= 1165, Q-table_diff=0.0000667
+episode=2250, cur_reward=1.08359, Q-table_entries= 1177, Q-table_diff=0.0000683
+episode=2300, cur_reward=1.08359, Q-table_entries= 1193, Q-table_diff=0.0000429
+episode=2350, cur_reward=1.08359, Q-table_entries= 1198, Q-table_diff=0.0000806
+episode=2400, cur_reward=1.08359, Q-table_entries= 1211, Q-table_diff=0.0000685
+episode=2450, cur_reward=1.08359, Q-table_entries= 1220, Q-table_diff=0.0000709
+episode=2500, cur_reward=1.08359, Q-table_entries= 1233, Q-table_diff=0.0000607
+episode=2550, cur_reward=1.08359, Q-table_entries= 1238, Q-table_diff=0.0000667
+episode=2600, cur_reward=1.08359, Q-table_entries= 1250, Q-table_diff=0.0000594
+episode=2650, cur_reward=1.08359, Q-table_entries= 1259, Q-table_diff=0.0000477
+episode=2700, cur_reward=1.08359, Q-table_entries= 1265, Q-table_diff=0.0000464
+episode=2750, cur_reward=1.08359, Q-table_entries= 1280, Q-table_diff=0.0001025
+episode=2800, cur_reward=1.08359, Q-table_entries= 1289, Q-table_diff=0.0000670
+episode=2850, cur_reward=1.08359, Q-table_entries= 1302, Q-table_diff=0.0000753
+episode=2900, cur_reward=1.08359, Q-table_entries= 1308, Q-table_diff=0.0000593
+episode=2950, cur_reward=1.08359, Q-table_entries= 1318, Q-table_diff=0.0000662
+episode=3000, cur_reward=1.08359, Q-table_entries= 1336, Q-table_diff=0.0000657
+episode=3050, cur_reward=1.08359, Q-table_entries= 1347, Q-table_diff=0.0000509
+episode=3100, cur_reward=1.08359, Q-table_entries= 1357, Q-table_diff=0.0000700
+episode=3150, cur_reward=1.08359, Q-table_entries= 1369, Q-table_diff=0.0000694
+episode=3200, cur_reward=1.08359, Q-table_entries= 1383, Q-table_diff=0.0000858
+episode=3250, cur_reward=1.08359, Q-table_entries= 1390, Q-table_diff=0.0000759
+episode=3300, cur_reward=1.08359, Q-table_entries= 1398, Q-table_diff=0.0000542
+episode=3350, cur_reward=1.08359, Q-table_entries= 1402, Q-table_diff=0.0000464
+episode=3400, cur_reward=1.08359, Q-table_entries= 1410, Q-table_diff=0.0000782
+episode=3450, cur_reward=1.08359, Q-table_entries= 1426, Q-table_diff=0.0000539
+episode=3500, cur_reward=1.08359, Q-table_entries= 1446, Q-table_diff=0.0000379
+episode=3550, cur_reward=1.08359, Q-table_entries= 1455, Q-table_diff=0.0000631
+episode=3600, cur_reward=1.08359, Q-table_entries= 1468, Q-table_diff=0.0000318
+episode=3650, cur_reward=1.08359, Q-table_entries= 1475, Q-table_diff=0.0000490
+episode=3700, cur_reward=1.08359, Q-table_entries= 1485, Q-table_diff=0.0000522
+episode=3750, cur_reward=1.08359, Q-table_entries= 1489, Q-table_diff=0.0000403
+episode=3800, cur_reward=1.08359, Q-table_entries= 1501, Q-table_diff=0.0000476
+episode=3850, cur_reward=1.08359, Q-table_entries= 1515, Q-table_diff=0.0000460
+episode=3900, cur_reward=1.08359, Q-table_entries= 1531, Q-table_diff=0.0000796
+episode=3950, cur_reward=1.08359, Q-table_entries= 1539, Q-table_diff=0.0000508
+episode=4000, cur_reward=1.08359, Q-table_entries= 1550, Q-table_diff=0.0000531
+episode=4050, cur_reward=1.08359, Q-table_entries= 1558, Q-table_diff=0.0000415
+episode=4100, cur_reward=1.08359, Q-table_entries= 1572, Q-table_diff=0.0000429
+episode=4150, cur_reward=1.08359, Q-table_entries= 1580, Q-table_diff=0.0000623
+episode=4200, cur_reward=1.08359, Q-table_entries= 1589, Q-table_diff=0.0000431
+episode=4250, cur_reward=1.08359, Q-table_entries= 1593, Q-table_diff=0.0000409
+episode=4300, cur_reward=1.08359, Q-table_entries= 1600, Q-table_diff=0.0000564
+episode=4350, cur_reward=1.08359, Q-table_entries= 1612, Q-table_diff=0.0000532
+episode=4400, cur_reward=1.08359, Q-table_entries= 1617, Q-table_diff=0.0000535
+episode=4450, cur_reward=1.08359, Q-table_entries= 1624, Q-table_diff=0.0000401
+episode=4500, cur_reward=1.08359, Q-table_entries= 1631, Q-table_diff=0.0000370
+episode=4550, cur_reward=1.08359, Q-table_entries= 1639, Q-table_diff=0.0000543
+episode=4600, cur_reward=1.08359, Q-table_entries= 1648, Q-table_diff=0.0000422
+episode=4650, cur_reward=1.08359, Q-table_entries= 1663, Q-table_diff=0.0000661
+episode=4700, cur_reward=1.08359, Q-table_entries= 1675, Q-table_diff=0.0000612
+episode=4750, cur_reward=1.08359, Q-table_entries= 1683, Q-table_diff=0.0000487
+episode=4800, cur_reward=1.08359, Q-table_entries= 1690, Q-table_diff=0.0000573
+episode=4850, cur_reward=1.08359, Q-table_entries= 1698, Q-table_diff=0.0000437
+episode=4900, cur_reward=1.08359, Q-table_entries= 1708, Q-table_diff=0.0000571
+episode=4950, cur_reward=1.08359, Q-table_entries= 1721, Q-table_diff=0.0000437
+episode=5000, cur_reward=1.08359, Q-table_entries= 1728, Q-table_diff=0.0000458
+episode=5050, cur_reward=1.08359, Q-table_entries= 1737, Q-table_diff=0.0000724
+episode=5100, cur_reward=1.08359, Q-table_entries= 1741, Q-table_diff=0.0000523
+episode=5150, cur_reward=1.08359, Q-table_entries= 1753, Q-table_diff=0.0000752
+episode=5200, cur_reward=1.08359, Q-table_entries= 1767, Q-table_diff=0.0000521
+episode=5250, cur_reward=1.08359, Q-table_entries= 1775, Q-table_diff=0.0000506
+episode=5300, cur_reward=1.08359, Q-table_entries= 1782, Q-table_diff=0.0000505
+episode=5350, cur_reward=1.08359, Q-table_entries= 1792, Q-table_diff=0.0000325
+episode=5400, cur_reward=1.08359, Q-table_entries= 1804, Q-table_diff=0.0000385
+episode=5450, cur_reward=1.08359, Q-table_entries= 1817, Q-table_diff=0.0000452
+episode=5500, cur_reward=1.08359, Q-table_entries= 1825, Q-table_diff=0.0000428
+episode=5550, cur_reward=1.08359, Q-table_entries= 1836, Q-table_diff=0.0000477
+episode=5600, cur_reward=1.08359, Q-table_entries= 1843, Q-table_diff=0.0000374
+episode=5650, cur_reward=1.08359, Q-table_entries= 1853, Q-table_diff=0.0000559
+episode=5700, cur_reward=1.08359, Q-table_entries= 1865, Q-table_diff=0.0000455
+episode=5750, cur_reward=1.08359, Q-table_entries= 1869, Q-table_diff=0.0000416
+episode=5800, cur_reward=1.08359, Q-table_entries= 1883, Q-table_diff=0.0000570
+episode=5850, cur_reward=1.08359, Q-table_entries= 1888, Q-table_diff=0.0000343
+episode=5900, cur_reward=1.08359, Q-table_entries= 1894, Q-table_diff=0.0000505
+episode=5950, cur_reward=1.08359, Q-table_entries= 1905, Q-table_diff=0.0000422
+episode=6000, cur_reward=1.08359, Q-table_entries= 1910, Q-table_diff=0.0000581
+episode=6050, cur_reward=1.08359, Q-table_entries= 1919, Q-table_diff=0.0000409
+episode=6100, cur_reward=1.08359, Q-table_entries= 1925, Q-table_diff=0.0000639
+episode=6150, cur_reward=1.08359, Q-table_entries= 1929, Q-table_diff=0.0000200
+episode=6200, cur_reward=1.08359, Q-table_entries= 1937, Q-table_diff=0.0000366
+episode=6250, cur_reward=1.08359, Q-table_entries= 1945, Q-table_diff=0.0000356
+episode=6300, cur_reward=1.08359, Q-table_entries= 1959, Q-table_diff=0.0000394
+episode=6350, cur_reward=1.08359, Q-table_entries= 1972, Q-table_diff=0.0000469
+episode=6400, cur_reward=1.08359, Q-table_entries= 1974, Q-table_diff=0.0000475
+episode=6450, cur_reward=1.08359, Q-table_entries= 1986, Q-table_diff=0.0000491
+episode=6500, cur_reward=1.08359, Q-table_entries= 1992, Q-table_diff=0.0000380
+episode=6550, cur_reward=1.08359, Q-table_entries= 2002, Q-table_diff=0.0000561
+episode=6600, cur_reward=1.08359, Q-table_entries= 2009, Q-table_diff=0.0000395
+episode=6650, cur_reward=1.08359, Q-table_entries= 2019, Q-table_diff=0.0000494
+episode=6700, cur_reward=1.08359, Q-table_entries= 2029, Q-table_diff=0.0000500
+episode=6750, cur_reward=1.08359, Q-table_entries= 2036, Q-table_diff=0.0000342
+episode=6800, cur_reward=1.08359, Q-table_entries= 2042, Q-table_diff=0.0000293
+episode=6850, cur_reward=1.08359, Q-table_entries= 2044, Q-table_diff=0.0000396
+episode=6900, cur_reward=1.08359, Q-table_entries= 2046, Q-table_diff=0.0000473
+episode=6950, cur_reward=1.08359, Q-table_entries= 2053, Q-table_diff=0.0000433
+episode=7000, cur_reward=1.08359, Q-table_entries= 2058, Q-table_diff=0.0000423
+episode=7050, cur_reward=1.08359, Q-table_entries= 2063, Q-table_diff=0.0000516
+episode=7100, cur_reward=1.08359, Q-table_entries= 2069, Q-table_diff=0.0000573
+episode=7150, cur_reward=1.08359, Q-table_entries= 2083, Q-table_diff=0.0000532
+episode=7200, cur_reward=1.08359, Q-table_entries= 2092, Q-table_diff=0.0000373
+episode=7250, cur_reward=1.08359, Q-table_entries= 2095, Q-table_diff=0.0000427
+episode=7300, cur_reward=1.08359, Q-table_entries= 2100, Q-table_diff=0.0000583
+episode=7350, cur_reward=1.08359, Q-table_entries= 2109, Q-table_diff=0.0000316
+episode=7400, cur_reward=1.08359, Q-table_entries= 2113, Q-table_diff=0.0000295
+episode=7450, cur_reward=1.08359, Q-table_entries= 2122, Q-table_diff=0.0000553
+episode=7500, cur_reward=1.08359, Q-table_entries= 2127, Q-table_diff=0.0000350
+episode=7550, cur_reward=1.08359, Q-table_entries= 2135, Q-table_diff=0.0000367
+episode=7600, cur_reward=1.08359, Q-table_entries= 2139, Q-table_diff=0.0000400
+episode=7650, cur_reward=1.08359, Q-table_entries= 2151, Q-table_diff=0.0000525
+episode=7700, cur_reward=1.08359, Q-table_entries= 2161, Q-table_diff=0.0000407
+episode=7750, cur_reward=1.08359, Q-table_entries= 2173, Q-table_diff=0.0000359
+episode=7800, cur_reward=1.08359, Q-table_entries= 2185, Q-table_diff=0.0000278
+episode=7850, cur_reward=1.08359, Q-table_entries= 2190, Q-table_diff=0.0000471
+episode=7900, cur_reward=1.08359, Q-table_entries= 2194, Q-table_diff=0.0000584
+episode=7950, cur_reward=1.08359, Q-table_entries= 2201, Q-table_diff=0.0000635
+episode=8000, cur_reward=1.08359, Q-table_entries= 2211, Q-table_diff=0.0000442
+episode=8050, cur_reward=1.08359, Q-table_entries= 2215, Q-table_diff=0.0000400
+episode=8100, cur_reward=1.08359, Q-table_entries= 2226, Q-table_diff=0.0000379
+episode=8150, cur_reward=1.08359, Q-table_entries= 2234, Q-table_diff=0.0000542
+episode=8200, cur_reward=1.08359, Q-table_entries= 2237, Q-table_diff=0.0000320
+episode=8250, cur_reward=1.08359, Q-table_entries= 2240, Q-table_diff=0.0000410
+episode=8300, cur_reward=1.08359, Q-table_entries= 2247, Q-table_diff=0.0000513
+episode=8350, cur_reward=1.08359, Q-table_entries= 2254, Q-table_diff=0.0000400
+episode=8400, cur_reward=1.08359, Q-table_entries= 2260, Q-table_diff=0.0000396
+episode=8450, cur_reward=1.08359, Q-table_entries= 2264, Q-table_diff=0.0000331
+episode=8500, cur_reward=1.08359, Q-table_entries= 2273, Q-table_diff=0.0000469
+episode=8550, cur_reward=1.08359, Q-table_entries= 2277, Q-table_diff=0.0000416
+episode=8600, cur_reward=1.08359, Q-table_entries= 2284, Q-table_diff=0.0000379
+episode=8650, cur_reward=1.08359, Q-table_entries= 2298, Q-table_diff=0.0000346
+episode=8700, cur_reward=1.08359, Q-table_entries= 2306, Q-table_diff=0.0000419
+episode=8750, cur_reward=1.08359, Q-table_entries= 2310, Q-table_diff=0.0000374
+episode=8800, cur_reward=1.08359, Q-table_entries= 2312, Q-table_diff=0.0000330
+episode=8850, cur_reward=1.08359, Q-table_entries= 2321, Q-table_diff=0.0000430
+episode=8900, cur_reward=1.08359, Q-table_entries= 2328, Q-table_diff=0.0000328
+episode=8950, cur_reward=1.08359, Q-table_entries= 2330, Q-table_diff=0.0000435
+episode=9000, cur_reward=1.08359, Q-table_entries= 2333, Q-table_diff=0.0000461
+episode=9050, cur_reward=1.08359, Q-table_entries= 2341, Q-table_diff=0.0000359
+episode=9100, cur_reward=1.08359, Q-table_entries= 2351, Q-table_diff=0.0000339
+episode=9150, cur_reward=1.08359, Q-table_entries= 2357, Q-table_diff=0.0000324
+episode=9200, cur_reward=1.08359, Q-table_entries= 2369, Q-table_diff=0.0000376
+episode=9250, cur_reward=1.08359, Q-table_entries= 2379, Q-table_diff=0.0000518
+episode=9300, cur_reward=1.08359, Q-table_entries= 2383, Q-table_diff=0.0000276
+episode=9350, cur_reward=1.08359, Q-table_entries= 2388, Q-table_diff=0.0000368
+episode=9400, cur_reward=1.08359, Q-table_entries= 2394, Q-table_diff=0.0000389
+episode=9450, cur_reward=1.08359, Q-table_entries= 2397, Q-table_diff=0.0000252
+episode=9500, cur_reward=1.08359, Q-table_entries= 2401, Q-table_diff=0.0000279
+episode=9550, cur_reward=1.08359, Q-table_entries= 2408, Q-table_diff=0.0000220
+episode=9600, cur_reward=1.08359, Q-table_entries= 2415, Q-table_diff=0.0000386
+episode=9650, cur_reward=1.08359, Q-table_entries= 2418, Q-table_diff=0.0000272
+episode=9700, cur_reward=1.08359, Q-table_entries= 2426, Q-table_diff=0.0000465
+episode=9750, cur_reward=1.08359, Q-table_entries= 2432, Q-table_diff=0.0000308
+episode=9800, cur_reward=1.08359, Q-table_entries= 2438, Q-table_diff=0.0000418
+episode=9850, cur_reward=1.08359, Q-table_entries= 2443, Q-table_diff=0.0000304
+episode=9900, cur_reward=1.08359, Q-table_entries= 2452, Q-table_diff=0.0000273
+episode=9950, cur_reward=1.08359, Q-table_entries= 2455, Q-table_diff=0.0000384
+episode=10000, cur_reward=1.08359, Q-table_entries= 2462, Q-table_diff=0.0000399
+Constructing Q-table in 77.6s
+Resulting sequence:  -newgvn,-instnamer,-die,-sroa,-jump-threading total reward 1.08359133126935
